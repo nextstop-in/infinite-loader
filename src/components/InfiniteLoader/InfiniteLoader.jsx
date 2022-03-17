@@ -21,7 +21,7 @@ class App extends PureComponent {
             }))
           ),
         }));
-      }, 2500);
+      }, 1000);
     });
   };
 
